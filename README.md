@@ -7,3 +7,7 @@ It uses 5 IR sensors to detect the path and a **PID control algorithm** to ensur
 - PID control for stability on curves
 - Powered by 2 cell li ion battery
 - Adjustable speed control
+
+## 📂 Repository Contents
+- **`/code/`** → Arduino code for the robot  
+- **`/hardware/`** → Components , parts used in making the bot
