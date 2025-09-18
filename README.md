@@ -1,2 +1,9 @@
 # LINE-FOLLOWER
-Autonomous line follower bot designed to detect and follow a path using IR sensors and motor control logic.
+This is my **Line Follower Robot** project built using Arduino Uno.  
+It uses 5 IR sensors to detect the path and a **PID control algorithm** to ensure smooth movement with minimal oscillation.
+
+## 🔧 Features
+- 5 IR sensor array for line detection
+- PID control for stability on curves
+- Powered by 2 cell li ion battery
+- Adjustable speed control
