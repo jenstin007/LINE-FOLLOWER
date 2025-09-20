@@ -1,0 +1,44 @@
+🛠️ Components Used – Line Follower Robot
+1. Microcontroller & Control
+
+Arduino UNO – Main controller, handles PID and motor control
+
+Arduino IDE (software environment for programming ESP32)
+
+2. Sensors
+
+5 IR Line Sensors (robo junkies) – To detect black/white path
+
+3. Motor Driver
+
+L298N  Driver Module
+
+4. Motors & Motion
+
+2 n20 gear motors (300 rpm)
+
+2 Wheels (compatible with DC motors)
+
+1 Castor Wheel – For balance
+
+5. Power Supply
+
+Li-ion (2S OR 7.4V, 2000mAh)
+
+Battery Holder / Connector
+
+Switch – To turn ON/OFF the bot
+
+6. Chassis & Mechanical
+
+Custom board
+
+Nuts, Bolts, Spacers – For mounting components
+
+7. Miscellaneous
+
+Breadboard / Perfboard 
+
+Jumper Wires
+
+Soldering materials (soldering wire, flux, etc.)
